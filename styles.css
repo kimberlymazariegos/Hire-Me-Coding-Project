@@ -1,0 +1,28 @@
+html{
+        background-color: coral;
+    }
+h1  { 
+    background-color: lightblue;
+    text-align:center;
+    font-size:60px;
+    font-family: 'Lobster', cursive;
+    }
+ul  {
+        font-size: 30px;
+    }
+   
+ div{
+     border-style: dotted;
+     border-width:5px;
+     color: white;
+    }
+img { 
+    width:100%;
+    }
+p   { font-size:20px;
+    color: lightblue;
+    font-size: 30px;
+    }
+        
+
+
